@@ -3,3 +3,4 @@ Git is a free software.
 how can you coding so good.
 test git diff command.
 tomorrow is monday.
+Git tracks changes.
