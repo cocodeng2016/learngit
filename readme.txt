@@ -3,4 +3,4 @@ Git is a free software.
 Creating a new branch is quick.
 new macbook pro.
 this is feature branch and new dev branch.
-more lines in dev;
+more lines in dev; reviese the bug.
